@@ -1,0 +1,5 @@
+name: K8SGameACK
+version: ${project.version}
+main: cc.i9mc.k8sgameack.K8SGameACK
+authors: [JinVan]
+depend: [GameUtils]
